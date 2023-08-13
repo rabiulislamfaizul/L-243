@@ -1,0 +1,24 @@
+#nav-menu{
+  width:600px;
+  height:80px;
+  background:orange;
+  margin:0 auto;
+  
+}
+#nav-menu ul{
+  
+}
+#nav-menu ul li{
+  list-style-type:none;
+  margin:20px;
+  float:left;
+}
+#nav-menu ul li a{
+  text-decoration:none;
+  font-size:25px;
+  color:green;
+  cursor:pointer;
+}
+#nav-menu ul li a:hover{
+  text-decoration:underline;
+}
